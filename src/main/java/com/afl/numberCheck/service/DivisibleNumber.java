@@ -17,7 +17,7 @@ public class DivisibleNumber implements NumberIterateRule {
 	public DivisibleNumber() {		
 	}
 
-	public String  divisibleNumberIterateRule(Integer number) {
+	public String numberIterateRule(Integer number) {
 		String startMsg = "The number " + number + " ";
 		String divMsg = startMsg + " can be divided by ";
 		String message = startMsg + "cannot be divided by 3 or 5.";

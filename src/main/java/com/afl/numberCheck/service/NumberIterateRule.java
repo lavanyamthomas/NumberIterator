@@ -9,5 +9,5 @@ package com.afl.numberCheck.service;
  */
 public interface NumberIterateRule {
 	
-	String divisibleNumberIterateRule(Integer number);
+	String numberIterateRule(Integer number);
 }
